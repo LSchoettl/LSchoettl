@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @LSchoettl
-- 👀 I’m interested in image processing, material characterization and artificial intelligence
+- 👀 I’m interested in all topics regarding image processing, material data characterization and artificial intelligence
